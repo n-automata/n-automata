@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan
 - 👀 I’m interested in a lot of things : ) Badminton, photography, fitness, coding, and anime 
-- 🌱 I’m currently learning HTML, SQL, Python, C++, and Java  
+- 🌱 I’m currently learning Web Development (HTML, CSS, JS)  
 - 📫 Want to get in touch? ~ ryantuworks@gmail.com
 - 🌎 Arts Portfolio ~ https://ryantu.myportfolio.com/
 
